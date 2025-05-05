@@ -1,0 +1,46 @@
+{ config, pkgs, ... }:
+
+{
+  environment.systemPackages = with pkgs; [
+    anki
+    bunnyfetch
+    calibre
+    cava
+    cbonsai
+    cmatrix
+    cowsay
+    ente-auth
+    fastfetch
+    figlet
+    gh
+    git
+    gitea
+    hyfetch
+    hyprland
+    librewolf
+    lolcat
+    motrix
+    mullvad-browser
+    neofetch
+    neovim
+    nitch
+    nodejs_23
+    ollama
+    pfetch
+    pnpm_10
+    ponysay
+    protonvpn-gui
+    pwgen
+    sass
+    simplex-chat-desktop
+    thefuck
+    tor-browser
+    tty-clock
+    ungoogled-chromium
+    unzip
+    virtualbox
+    wezterm
+    yarn
+    yt-dlp
+  ];
+}
