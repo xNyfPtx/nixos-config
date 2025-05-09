@@ -100,8 +100,13 @@
       "privacy.resistFingerprinting.autoDeclineNoUserInputCanvasPrompts" = true;
     };
     ExtensionSettings = {
-      "jid1-ZAdIEUB7XOzOJw@jetpack" = {
-        install_url = "https://addons.mozilla.org/firefox/downloads/latest/duckduckgo-for-firefox/latest.xpi";
+      "7esoorv3@alefvanoon.anonaddy.me" = {
+        install_url = "https://addons.mozilla.org/firefox/downloads/latest/libredirect/latest.xpi";
+        installation_mode = "force_installed";
+      };
+      "tridactyl.vim@cmcaine.co.uk" = {
+        install_url = "https://addons.mozilla.org/firefox/downloads/latest/tridactyl-vim
+	/latest.xpi";
         installation_mode = "force_installed";
       };
       "uBlock0@raymondhill.net" = {
