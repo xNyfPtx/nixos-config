@@ -68,8 +68,7 @@
   # basic configuration of git, please change to your own
   programs.git = {
     enable = true;
-    # userName = "xNyfPtx";
-    userName = "test"
+    userName = "xNyfPtx";
     userEmail = "55147963+xNyfPtx@users.noreply.github.com";
   };
 

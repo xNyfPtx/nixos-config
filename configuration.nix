@@ -9,7 +9,6 @@
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
       ./keyd.nix
-      ./librewolf.nix
       ./ollama.nix
     ];
 
