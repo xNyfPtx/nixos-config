@@ -11,7 +11,6 @@
       ./keyd.nix
       ./librewolf.nix
       ./ollama.nix
-      ./packages.nix
     ];
 
   # Bootloader.
