@@ -87,6 +87,8 @@
       l = "ls";
       c = "cd";
       r = "rm";
+      rms = "shred";
+      shred = "shred -n 32 -f -u -v -z";
       m = "mkdir";
     };
   };
