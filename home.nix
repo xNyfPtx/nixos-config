@@ -32,6 +32,7 @@
     cowsay
     ente-auth
     fastfetch
+    ffmpeg
     figlet
     gh
     git
@@ -39,6 +40,7 @@
     hyfetch
     hyprland
     lolcat
+    mat2
     motrix
     mullvad-browser
     neofetch
